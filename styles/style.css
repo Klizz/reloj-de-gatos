@@ -1,0 +1,29 @@
+body {
+    background-color: #E5FCC2;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+#demo {
+    font-size: 3em;
+    font-family: 'Lato', sans-serif;
+}
+
+#mensaje {
+    color: #547980;
+    font-size: 4em;
+    font-weight: bold;
+}
+
+#catClock {
+    border: 8px solid #594F4F;
+}
